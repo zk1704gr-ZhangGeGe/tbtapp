@@ -1,0 +1,125 @@
+.content{
+		width: 100%;
+}
+.ssl{
+	margin-top: -3%;
+}
+.mSearch-input-box{
+	margin-top: 1%;
+	padding-left:10% ;
+	width: 85%;
+	height: 64upx;
+	margin-left: 2.5%;
+	border-radius: 32upx;
+	font-size: 27upx;
+	background-color: white;
+	position: fixed;
+	float:right;
+	z-index: 10;
+}
+.sousuo{
+	position: fixed;
+	float:right;
+	z-index: 10;
+	font-size: 28upx;
+	color: rgb(33,195,154);
+	margin-top: 2.5%;
+	margin-left: 86%;
+}
+.szzsz{
+	width: 90%;
+	margin-right:4% ;
+	margin-top: 2%;
+	float: right;
+	margin-bottom: 2%;
+}
+.sbj{
+	width: 100upx;
+	height: 100upx;
+}
+.zsj{
+	width: 125upx;
+	height: 108upx;
+	margin-left: 3.5%;
+}
+.zxgs{
+	width: 118upx;
+	height: 108upx;
+	margin-left: 2.5%;
+}
+.shbj{
+	width: 111upx;
+	height: 104upx;
+	margin-left: 2.5%;
+}
+.zxfq{
+	width: 100upx;
+	height: 100upx;
+	margin-left: 4.5%;
+}
+.text1{
+	font-size: 24upx;
+	margin-left: 2.5%;
+}
+.text2{
+	font-size: 24upx;
+	margin-left: 9%;
+}
+.text3{
+	font-size: 24upx;
+	margin-left: 7.5%;
+
+}
+.text4{
+	font-size: 24upx;
+	margin-left: 6.8%;
+}
+.text5{
+	font-size: 24upx;
+	margin-left: 6.5%;
+}
+.sxx{
+	margin: 3%;
+}
+.shaijiazhengji{
+	width: 50%;
+	height: 288upx;
+}
+.xiaoguotu{
+	width: 48%;
+	height: 140upx;
+	float: right;
+}
+.xuezhuangxiu{
+	width: 48%;
+	height: 140upx;
+	float: right;
+	margin-top: -21%;
+}
+.sjwdj{
+	border: rgb(238,238,238) 1upx solid;
+	width: 93.5%;
+	height: 74upx;
+	margin-left: 3%;
+	border-radius:5upx ;
+	margin-top: -2%;
+}
+.shejiwodejia{
+	width: 57upx;
+	height: 50upx;
+	margin-top: 10upx;
+	margin-left: 20upx;
+}
+.szj{
+	float: right;
+	font-size: 26upx;
+	margin-top: 19upx;
+	margin-right: 40%;
+}
+.t{
+	float: right;
+	color: rgb(205,205,205);
+	font-size: 34upx;
+	margin-top: -63upx;
+	margin-right: 3%;
+}

@@ -1,0 +1,45 @@
+.zhuangxiujindu{
+	width: 100%;
+	border-bottom: rgb(229,229,229) 0.5upx solid;
+	padding-bottom: 1.5%;
+}
+.zxjdimg{
+	width: 80upx;
+	height: 80upx;
+	line-height: 30upx;
+	margin-top: 3%;
+	margin-left: 2%;
+}
+.zxjdtext{
+	float: right;
+	font-size: 24upx;
+	font-weight: bold;
+	margin-right: 70%;
+	margin-top: 3.5%;
+}
+.zxjdxxxx{
+	float: right;
+	font-size: 24upx;
+	margin-right: 61.5%;
+	margin-top: -5.5%;
+	color: rgb(153,153,155);
+}
+.zxjdxxxx1{
+	float: right;
+	font-size: 24upx;
+	margin-right: 23%;
+	margin-top: -5.5%;
+	color: rgb(153,153,155);
+}
+.xitongxiaoxi{
+	width: 100%;
+	border-bottom: rgb(229,229,229) 10upx solid;
+	padding-bottom: 1.5%;
+}
+.xxdate{
+	color: rgb(145,145,148);
+	float: right;
+	font-size: 24upx;
+	margin-top: -9%;
+	margin-right: 5%;
+}

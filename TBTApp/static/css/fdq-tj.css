@@ -1,0 +1,84 @@
+.tuijian1{
+	width: 100%;
+	height: 580upx;
+	margin-top: 2%;
+	border-bottom: rgb(234,234,234) 1upx solid;
+}
+.tj1{
+	width: 96.5%;
+	margin-left: 1.5%;
+}
+.tj1-ms{
+	font-size: 28upx;
+	font-weight: 700;
+	margin-left: 2%;
+	margin-top: 1%;
+}
+.tj1-js{
+	font-size: 20upx;
+	margin-left: 2%;
+	margin-top: 4%;
+}
+.tuijian2{
+	width: 100%;
+	height: 570upx;
+	padding-bottom: 4%;
+	margin-top: 4%;
+	border-bottom: rgb(234,234,234) 1upx solid;
+}
+.tj1-js1{
+	font-size: 20upx;
+	margin-right: 80%;
+	margin-top: 4.5%;
+	float: right;
+}
+.ybjl{
+	width: 8%;
+	height: 10%;
+	margin-top: 3%;
+}
+.shoucang{
+	font-size: 20upx;
+	margin-right: 4%;
+	margin-top: -8.5%;
+	float: right;
+}
+.fenxiang{
+	font-size: 20upx;
+	margin-right: 2%;
+	margin-top: -8.5%;
+	float: right;
+}
+.sc{
+	width: 60upx;
+	height: 60upx;
+}
+.sct{
+	font-size: 20upx;
+	margin-top: 20upx;
+	float: right;
+}
+.fx{
+	width: 60upx;
+	height: 60upx;
+}
+.fxt{
+	font-size: 20upx;
+	margin-top: 20upx;
+	float: right;
+}
+.scfx{
+	margin-top: -1.5%;
+}
+.ybjl1{
+	margin-left: 2%;
+	width: 7.5%;
+	height: 11%;
+	margin-top: 3%;
+}
+.tj1-js2{
+	font-size: 20upx;
+	margin-right: 66%;
+	margin-top: 5.5%;
+	float: right;
+}

@@ -1,0 +1,113 @@
+.content{
+	width: 100%;
+}
+.tbtlogo{
+	width: 140upx;
+	height: 140upx;
+	border-radius: 71upx;
+	margin-left: 39%;
+	margin-top: 70upx;
+}
+.zm{
+	font-size: 29upx;
+	margin-top: 100upx;
+	margin-bottom: 17upx;
+}
+.username{
+	width: 60%;
+	padding-left: 16%;
+	margin-left: 13%;
+	padding-bottom: 1%;
+	border-bottom: rgb(35,199,126) 2upx solid;
+}
+.password{
+	width: 50%;
+	padding-left: 25%;
+	margin-left: 13%;
+	margin-top: 4%;
+	padding-bottom: 2%;
+	border-bottom: rgb(35,199,126) 2upx solid;
+	display: inline-block;
+}
+.wjmm{
+	font-size: 20upx;
+	color: rgb(35,199,126);
+	margin-top: -70upx;
+	margin-right: 38upx;
+	float: right;
+}
+.dl{
+	font-size: 29upx;
+	color: #8F8F94;
+	margin-left: 44%;
+}
+.view1{
+	width: 70%;
+	height:300upx;
+	text-align: center;
+	margin-top: 490upx;
+	margin-left: 17%;
+}
+.text2{
+	font-size: 27upx;
+	color:rgb(79,189,139) ;
+}
+.view2{
+	border-top: rgb(244,244,244) 1upx solid;
+	width: 500upx;
+	height: 140upx;
+	margin-top: 30upx;
+}
+.qq{
+	width: 100upx;
+	height: 100upx;
+	border:rgb(244,244,244) 1upx solid;
+	border-radius: 51px;
+	margin-top: 26upx;
+	margin-left: -20upx;
+}
+.qqlogo{
+	width: 50upx;
+	height: 60upx;
+	margin-top: 16upx;
+}
+.weixin{
+	width: 100upx;
+	height: 100upx;
+	border:rgb(244,244,244) 1upx solid;
+	border-radius: 51px;
+	margin-left: 210upx;
+	margin-top: -106upx;
+}
+.weixinlogo{
+	width: 65upx;
+	height: 55upx;
+	margin-top: 20upx;
+
+}
+.weibo{
+	width: 100upx;
+	height: 100upx;
+	border:rgb(244,244,244) 1upx solid;
+	margin-left: 430upx;
+	margin-top: -106upx;
+	border-radius: 51px;
+}
+.weibologo{
+	width: 60upx;
+	height: 60upx;
+	margin-top: 18upx;
+}
+.view3{
+	font-size: 20upx;
+	margin-top: -40upx;
+	margin-left: 170upx;
+}
+.text3{
+	color: rgb(204,204,204);
+}
+.text4{
+	border-bottom:rgb(148,147,152) 1upx solid ;
+	color: rgb(148,147,152);
+	
+}

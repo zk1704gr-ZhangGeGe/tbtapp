@@ -1,0 +1,54 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{"path": "pages/home/index","style": {"navigationBarTitleText": "主页"}},
+		{"path": "pages/home/login","style": {"navigationBarTitleText": "手机号快捷注册登录"}},
+		{"path": "pages/home/login1","style": {"navigationBarTitleText": "账号密码登录"}},
+		{"path": "pages/home/newsgot","style": {"navigationBarTitleText": "消息中心"}},
+		{"path": "pages/home/PersonalCenter","style": {"navigationBarTitleText": "个人中心","app-plus" : {"titleNView" : {"buttons" : [{"text" : "设置","fontSize" : "15px"}]}}}},
+		{"path": "pages/home/fitup","style": {"navigationBarTitleText": "装修"}}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar" : {
+	    "color" : "black",
+	    "selectedColor" : "#000000",
+	    "borderStyle" : "black",
+	    "backgroundColor" : "aquamarine",
+	    "list" : [
+	        {
+	            "selectedIconPath" : "static/imgs/shouye2.jpg",
+	            "iconPath" : "static/imgs/shouye1.jpg",
+	            "pagePath" : "pages/home/index",
+	            "text" : "首页"
+	        },
+	        {
+	            "selectedIconPath" : "static/imgs/zhuangxiu2.jpg",
+	            "iconPath" : "static/imgs/zhuangxiu1.jpg",
+	            "pagePath" : "pages/home/fitup",
+	            "text" : "装修"
+	        },
+	        {
+	            "selectedIconPath" : "static/imgs/faxian2.jpg",
+	            "iconPath" : "static/imgs/faxian1.jpg",
+	            "pagePath" : "pages/home/index",
+	            "text" : "发现"
+	        },
+	        {
+	            "selectedIconPath" : "static/imgs/xiaoxi2.jpg",
+	            "iconPath" : "static/imgs/xiaoxi1.jpg",
+	            "pagePath" : "pages/home/newsgot",
+	            "text" : "消息"
+	        },
+	        {
+	            "selectedIconPath" : "static/imgs/wode2.jpg",
+	            "iconPath" : "static/imgs/wode1.jpg",
+	            "pagePath" : "pages/home/PersonalCenter",
+	            "text" : "我的"
+	        }
+	    ]
+	}
+}
